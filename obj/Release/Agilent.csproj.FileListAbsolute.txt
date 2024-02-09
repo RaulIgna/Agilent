@@ -1,0 +1,15 @@
+C:\Users\ignar\Documents\Projects\IviProject\NewSolution\Agilent\bin\Release\Agilent.dll
+C:\Users\ignar\Documents\Projects\IviProject\NewSolution\Agilent\bin\Release\Agilent.pdb
+C:\Users\ignar\Documents\Projects\IviProject\NewSolution\Agilent\bin\Release\Ivi.Dmm.dll
+C:\Users\ignar\Documents\Projects\IviProject\NewSolution\Agilent\bin\Release\Ivi.Driver.dll
+C:\Users\ignar\Documents\Projects\IviProject\NewSolution\Agilent\bin\Release\Keysight.Kt34400.Fx45.dll
+C:\Users\ignar\Documents\Projects\IviProject\NewSolution\Agilent\bin\Release\Ivi.ConfigServer.dll
+C:\Users\ignar\Documents\Projects\IviProject\NewSolution\Agilent\bin\Release\Ivi.Dmm.xml
+C:\Users\ignar\Documents\Projects\IviProject\NewSolution\Agilent\bin\Release\Ivi.Driver.xml
+C:\Users\ignar\Documents\Projects\IviProject\NewSolution\Agilent\bin\Release\Keysight.Kt34400.Fx45.xml
+C:\Users\ignar\Documents\Projects\IviProject\NewSolution\Agilent\bin\Release\Ivi.ConfigServer.xml
+C:\Users\ignar\Documents\Projects\IviProject\NewSolution\Agilent\obj\Release\Agilent.csproj.AssemblyReference.cache
+C:\Users\ignar\Documents\Projects\IviProject\NewSolution\Agilent\obj\Release\Agilent.csproj.CoreCompileInputs.cache
+C:\Users\ignar\Documents\Projects\IviProject\NewSolution\Agilent\obj\Release\Agilent.csproj.CopyComplete
+C:\Users\ignar\Documents\Projects\IviProject\NewSolution\Agilent\obj\Release\Agilent.dll
+C:\Users\ignar\Documents\Projects\IviProject\NewSolution\Agilent\obj\Release\Agilent.pdb
